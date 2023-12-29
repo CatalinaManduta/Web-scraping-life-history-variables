@@ -1,5 +1,4 @@
 
-# Project: Castration in males
 # Author: Catalina Manduta
 # Description: Web scraping life history variables from: url = 'https://animalia.bio/
 
